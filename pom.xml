@@ -90,7 +90,7 @@
                                             keytool-maven-plugin
                                         </artifactId>
                                         <versionRange>
-                                            [1.5,)
+                                            [1.2,)
                                         </versionRange>
                                         <goals>
                                             <goal>clean</goal>
